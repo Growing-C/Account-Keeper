@@ -1,2 +1,2 @@
 # Account-Keeper
-To safely keep our more and more accounts
+An android APP used to safely keep our more and more accounts
